@@ -1,0 +1,1 @@
+Run `alembic upgrade head` from this directory after configuring `DATABASE_URL` to migrate an existing SQLite database. `alembic downgrade base` removes the lifecycle/audit additions. The application still calls `create_all()` for a clean development database; migrations are the controlled path for existing data.

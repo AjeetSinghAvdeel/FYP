@@ -1,0 +1,8 @@
+admin
+api
+assets
+favicon.ico
+health
+login
+robots.txt
+static

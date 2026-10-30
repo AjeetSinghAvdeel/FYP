@@ -1,0 +1,11 @@
+[
+  {
+    "name": "juice-shop-local-baseline",
+    "description": "Operator-supplied ground truth placeholder for a local Juice Shop run. Replace with verified lab observations before evaluation.",
+    "known_vulnerabilities": [],
+    "known_assets": ["http://127.0.0.1:3000"],
+    "expected_attack_paths": [],
+    "difficulty": "introductory",
+    "source": "operator-defined; no scanner output is used as ground truth"
+  }
+]
